@@ -13,10 +13,6 @@ public class StringUtilsTest {
         assertNotEquals("【错误】未检测到reverse缺陷", "4321", result);
         assertEquals("【通过】缺陷触发验证", "4231", result);
     }
-    git remote add origin https://github.com/<Xhr313>/<StringUtils-Testing>.git
-    git remote add origin git@github.com:Xhr313/StringUtils-Testing.git
-
-    git clone git@github.com:Xhr313/StringUtils-Testing.git
 
     @Test
     public void testIsBlank() {
