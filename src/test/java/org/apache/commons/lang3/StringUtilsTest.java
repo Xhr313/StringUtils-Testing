@@ -16,6 +16,7 @@ public class StringUtilsTest {
     git remote add origin https://github.com/<Xhr313>/<StringUtils-Testing>.git
     git remote add origin git@github.com:Xhr313/StringUtils-Testing.git
 
+    git clone git@github.com:Xhr313/StringUtils-Testing.git
 
     @Test
     public void testIsBlank() {
